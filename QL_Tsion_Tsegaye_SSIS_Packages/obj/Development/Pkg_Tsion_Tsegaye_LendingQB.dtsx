@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_Tsion_Tsegaye_LendingQB"
   DTS:PackageType="5"
-  DTS:VersionBuild="82"
-  DTS:VersionGUID="{6E5DACE1-7251-40B6-BAF9-A75CB15D64E5}">
+  DTS:VersionBuild="84"
+  DTS:VersionGUID="{A88C78B3-78A6-4501-A7A9-2F6637C3168B}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -136,7 +136,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varLastModifiedDate">
       <DTS:VariableValue
-        DTS:DataType="7">9/5/2020 9:51:05 PM</DTS:VariableValue>
+        DTS:DataType="7">9/5/2020 9:58:23 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -163,7 +163,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varSmtpClient">
       <DTS:VariableValue
-        DTS:DataType="8">stmp.gmail.com</DTS:VariableValue>
+        DTS:DataType="8">smtp.gmail.com</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -202,7 +202,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">9/5/2020 9:51:05 PM</DTS:VariableValue>
+        DTS:DataType="7">9/5/2020 9:58:23 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
