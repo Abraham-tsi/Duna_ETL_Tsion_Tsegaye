@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <SSIS:Parameters xmlns:SSIS="www.microsoft.com/SqlServer/SSIS">
   <SSIS:Parameter
     SSIS:Name="ODataSource_ConnectionString">
@@ -59,7 +59,7 @@
         SSIS:Name="Sensitive">1</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value"
-        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAACAAAAAAAQZgAAAAEAACAAAADL9NxFcEWe1cRDVbD83zy8nlCPHYPd+hKVIii3vYSzngAAAAAOgAAAAAIAACAAAACqB9guHaPG1VUe5LKHbdcBY1w4X9zzT+sxT545gW0km4AAAAATun+/245wp0m58iMWURkZLh7IUy1od541ReegDDnG5OkwH+U3wk5vfry+fYYLsm2cWHonV5xhM/zn/ttWqbDDvb5tXT/zvd9vATyXyjsaYZoYhlR8NUEnGf64KgD6nuq1/Uk7RFXwAM7UF4+gg5kCZbEAK3MdCzaK03FTJiqfqUAAAADrF06n0tt1VZNEj9DxZV6ATMi5aA77TJhMmJOLhE4XkR+mtWYECuux+jIQKVu/DdHukuoznVlvwhstP3Csfps8</SSIS:Property>
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAACAAAAAAAQZgAAAAEAACAAAABBm9A0T9HhLyAH8uT8A6eY+nWUbP7ok38+UZJiZUcITgAAAAAOgAAAAAIAACAAAAATeVJXJWjxwEUl7M4pDtIUS0YXCUQciK7akB6E4sFziYAAAABiI60YmbBM28hfe+DKb7Uf+MMZvvQUX01yzGx6zG7vJVmBSE7i73BPydg7i/PDM5CbewUeFSZj8L/BBIwHvShybknD8HkJGfIdKbfMvMMlEhvcCB9OpN/EdSfemu7VOq8DqHZ4g0zAJ42Qz3bK51yyuTnbcA2zV3OZI7I3jEyEzkAAAAD0qiozRyXo1wROCR3wZbe8AiVLpDh6RtTZkiJsuK6Fh8J/n2IXO4+coeSSzbtsOMth8XdZjVyArtq6ccWeHRBn</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
