@@ -59,7 +59,7 @@
         SSIS:Name="Sensitive">1</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value"
-        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAACAAAAAAAQZgAAAAEAACAAAAAZwxeHbmlbfgv192t5RUXf6ZkxUGqClNMjHi+3WRu6AAAAAAAOgAAAAAIAACAAAAA5te/x/bglrTd1YBoK0eeMF+gKFlqA+oRftIbc4fDbb4AAAAC3T6MMEkZelcgmCNPjrUKYxMB/OWPhKwC2Q5tyYqhrJDd1fnyUUfkJZDnVmNM7ko9sXwBCooiCSZeKXGHelfLSIld/1hCquv+Ed5TNW77Bi88iG+DGlD80yrpCXzLSJrmnH1hZs67mR/XLAp5nvlcEN60JragZcr2dTRbkZHULLEAAAAAmN9Wc+9p5aez2yVhEWBLhSkpTVPi5/AVe7VqvyTkpDh+DN9JAGwYK8lhHegDSoGc6HkKsNC5qWelKfElFKRaQ</SSIS:Property>
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAACAAAAAAAQZgAAAAEAACAAAABBRIOU6rwmQWh0W/OIRjZyPRSmhgaDAVW4+7OrB5cP5gAAAAAOgAAAAAIAACAAAACN4Jr1LlYdm40aE7caYAzY9Q1sLPFR7gfsPA9s8ndoHYAAAADRBo/jTQj3nFcZ16LX61yun+mWvTWQ+rAM7ggLCOVrDs+37qxZ7a+1PB69RJb7DKTNw2FWPn7uA3ccVQi34HY6t90TYJ67uCzt3AyDvXhSQwr5D7K8XTbz00v+f7W9iNoo9YFcfNBp3k+22uVhuaVCQ6l+tqe+RazWzaBt9/+EXkAAAAAP3/F/qPsdH2GpFOn5lVdt0hQ407jcJMvYVdO8f0UpQ89BdKqrXi78XRwWGUlSGUmBQoD96SU7PPq62ufHGA7Z</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
@@ -102,6 +102,27 @@
         SSIS:Name="Sensitive">0</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value">Service Document Url=https://dunatkcom.sharepoint.com/sites/LendingQB/_vti_bin/listdata.svc;Include Atom Elements=Auto;Include Expanded Entities=False;Integrated Security=False;Cookie="SPOIDCRL=77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U1A+VjgsMGguZnxtZW1iZXJzaGlwfDEwMDMyMDAwNDUzOWU4OWZAbGl2ZS5jb20sMCMuZnxtZW1iZXJzaGlwfHNoYXJlcG9pbnRAZHVuYXRrLmNvbSwxMzI0MzEyOTcwMTAwMDAwMDAsMTMyNDIxNzU3MDQwMDAwMDAwLDEzMjQzMjE2MTAxNzE3OTE0MCwwLjAuMC4wLDQsODVkZGY3ZTktODA2OC00YmI2LTg5NzktNDQ3NjE0NDJlMzlhLCwsMTE5ODc0OWYtNzA1MS0wMDAwLTQxNzctNTQ4ZTcwNmE0ODVkLDExOTg3NDlmLTcwNTEtMDAwMC00MTc3LTU0OGU3MDZhNDg1ZCwsMCwwLDAsLCwsMjY1MDQ2Nzc0Mzk5OTk5OTk5OSwwLCxBM2UrL01WazdqamZidHFkbVVwNWZvYStLRTJaQ2dyMFp0bGw4K2ZOSmF1NG9Xb09aZFA2a2dXWnRSSjN3Q1lud2NHRXdhMXRlUEF5UG05UHNHZ25DNFgvbTdlV1piNWhMSTlwVnErQjBIV2RDeDB3M2hTRzFyM2hRVDhUbmNKSmZ3V2diMkpnWnlKSm9lRmZaNnRpcmZET21LOTZmbUFueUpNcVluZWMzOTVlQ05LMDc3U2Z0T3M5RW1vTEhPaGpNakhtVlJkSGpnY2lvMjBOMlRaM2tvOUI4ZnJ6QVh6V04yZTFYdVUrbkZqaFpGanF0TGJQQWs2M2FtUm1yTm9ObmVDd2paKzRIU0I5ZVl6TkVLcUlBaE0wZjRWdmtDbUhCWG1TVDBTN095bWs1TU8rVVJkUG5iVXFpdFo5V2FvUm9IZUtFeW1OOURKdWJDc01IaHBhZnc9PTwvU1A+";User ID=sharepoint@dunatk.com;Persist Security Info=False;Time Out=600;Schema Sample Size=25;Retry Count=5;Retry Sleep=100;Keep Alive=False;Max Received Message Size=4398046511104</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="DataType">18</SSIS:Property>
+    </SSIS:Properties>
+  </SSIS:Parameter>
+  <SSIS:Parameter
+    SSIS:Name="SalesforceConnectionManager1_ConnectionString">
+    <SSIS:Properties>
+      <SSIS:Property
+        SSIS:Name="ID">{2a341df6-af73-4628-a6fa-9508060a6dcf}</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="CreationName"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Description"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Required">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Sensitive">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Value">InstanceType=Sandbox;AuthenticationType=AuthorizationCode;ServiceEndpoint=SOAP;ServiceUrl=https://test.salesforce.com/services/Soap/u/48.0;TokenPath=;ClientId=;RedirectUri=;CertificateThumbprint=;UserName=salesforce@dunallc.com.sandboxdev;ServiceTimeout=120;ProxyMode=NoProxy;ProxyServer=;ProxyServerPort=0;ProxyUsername=;RetryOnIntermittentErrors=True</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
