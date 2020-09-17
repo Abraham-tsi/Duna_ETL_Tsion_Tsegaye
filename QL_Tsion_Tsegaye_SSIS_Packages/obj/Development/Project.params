@@ -59,7 +59,7 @@
         SSIS:Name="Sensitive">1</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value"
-        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAACAAAAAAAQZgAAAAEAACAAAABBRIOU6rwmQWh0W/OIRjZyPRSmhgaDAVW4+7OrB5cP5gAAAAAOgAAAAAIAACAAAACN4Jr1LlYdm40aE7caYAzY9Q1sLPFR7gfsPA9s8ndoHYAAAADRBo/jTQj3nFcZ16LX61yun+mWvTWQ+rAM7ggLCOVrDs+37qxZ7a+1PB69RJb7DKTNw2FWPn7uA3ccVQi34HY6t90TYJ67uCzt3AyDvXhSQwr5D7K8XTbz00v+f7W9iNoo9YFcfNBp3k+22uVhuaVCQ6l+tqe+RazWzaBt9/+EXkAAAAAP3/F/qPsdH2GpFOn5lVdt0hQ407jcJMvYVdO8f0UpQ89BdKqrXi78XRwWGUlSGUmBQoD96SU7PPq62ufHGA7Z</SSIS:Property>
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAACAAAAAAAQZgAAAAEAACAAAADXxY8JNdiDCC01uZ+Q2yjZTbgssbVWoQaUKW/cxhJV+gAAAAAOgAAAAAIAACAAAABa1BC1GtU/cLB3gjMfMD/oCQrtR97QNZJWgnOHGM0UlYAAAADbx1ZtDeCqbwQTftFDJ6ZdKqgmPgAm4gbf0BBgMdec+LC9wC/go6ulMWvJJm2CWhWBbdhlbPxoGSkJ64eU0XIumcEPBg3mt4QNi72Vf9pIiMPpI9z7wCG218tMlMnR4WMf6s0msThmbwv2WHy3SXwZ0Yj9hNnnVD4SYHoszM0vxkAAAADD+fQYAUBLE+HYsjYRQzP6B64b3OGqprdSktMJXRXQ4Q2KtXCu/4aaAQJQV2DKr30egNFt/bvVfRngDCQM6GU2</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
@@ -123,6 +123,28 @@
         SSIS:Name="Sensitive">0</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value">InstanceType=Sandbox;AuthenticationType=AuthorizationCode;ServiceEndpoint=SOAP;ServiceUrl=https://test.salesforce.com/services/Soap/u/48.0;TokenPath=;ClientId=;RedirectUri=;CertificateThumbprint=;UserName=salesforce@dunallc.com.sandboxdev;ServiceTimeout=120;ProxyMode=NoProxy;ProxyServer=;ProxyServerPort=0;ProxyUsername=;RetryOnIntermittentErrors=True</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="DataType">18</SSIS:Property>
+    </SSIS:Properties>
+  </SSIS:Parameter>
+  <SSIS:Parameter
+    SSIS:Name="DunaDatabaseWindowsNetUberWriterUberWriter_Password">
+    <SSIS:Properties>
+      <SSIS:Property
+        SSIS:Name="ID">{4185901c-2713-4cd4-82b8-7c5c660d8bca}</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="CreationName"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Description"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Required">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Sensitive">1</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Value"
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAACAAAAAAAQZgAAAAEAACAAAABWocMeweSF7559Wrt+Sig5A7gYMR/Y6z5d7nMObYBKKwAAAAAOgAAAAAIAACAAAAD1DmfFCbiAJwkqK1pZjcqj6a+DaalvJlb6VVls1Q0ksIAAAAC24gH8UNlpcF5i5dfwu3uVP9d04vnIQEnivNmDeRqBWuIV2nO09vcn8/d8aM6JlFLBmxDRPk0a6lIcbhBkggdi8HNbDegNxQDHnOUciTZrPgwZzKxaEB/plRuYBLs4E1IAwuVBBeD1ymphlmkt/Qj13/0lef6yGsW0KaEai/wJ0kAAAAABoqe74g6szSYh6M6niglskAakXUaWMlBG5GI0h8NaJFOWhLXisJ9xI8uefxYt1358rCez6OR6Ygo8YeOlF61I</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
