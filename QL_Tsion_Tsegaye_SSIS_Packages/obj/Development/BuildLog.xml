@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Tsion_Tsegaye_SSIS_Packages</Name>
-    <LastWriteTime>2020-09-16T07:04:14.6262457Z</LastWriteTime>
+    <LastWriteTime>2020-09-19T06:50:01.5758801Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -14,11 +14,6 @@
     <ProjectBuildItemInfo>
       <Name>Pkg_Tsion_Tsegaye_LendingLoan.dtsx</Name>
       <LastWriteTime>2020-08-28T05:04:42.6164394Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
-      <Name>Pkg_Tsion_Tsegaye_LendingPad.dtsx</Name>
-      <LastWriteTime>2020-08-28T05:07:49.198131Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
@@ -38,7 +33,12 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Tsion_Tsegaye_UberWriter.dtsx</Name>
-      <LastWriteTime>2020-09-17T04:35:40.4632133Z</LastWriteTime>
+      <LastWriteTime>2020-09-18T01:59:55.2203344Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Pkg_Tsion_Tsegaye_LendingPad.dtsx</Name>
+      <LastWriteTime>2020-09-20T03:13:24.4067262Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
