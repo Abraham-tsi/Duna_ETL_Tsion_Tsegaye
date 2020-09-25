@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_Tsion_Tsegaye_LendingPad"
   DTS:PackageType="5"
-  DTS:VersionBuild="221"
-  DTS:VersionGUID="{4CE245D5-78AD-419D-9F00-8323E0B08C82}">
+  DTS:VersionBuild="222"
+  DTS:VersionGUID="{33A1922F-886D-44D8-98B4-499998F42C7E}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -81,7 +81,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC9uJfoaNFS8Qi+y/HJYwR3uklg3zNSKld4h7NHxX4mlwAAAAAOgAAAAAIAACAAAADAI36RHEqyLg0PwQD/oYou5aOC4DjwAEqvE7IMmmc+zCAAAADwdMDJckmOVK3cWRLg70rkDKCmI5wdTkt3j2kPDZFqlkAAAAAbrLUWsOUIb+KlA/i62Oj6FFHJsX2R/AMEV5tWTx6OdMA62lJ2GiuTGnl0YpwssFMqZ1mSNdMWZYgllt6JlIOJ</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAHWIeDYiQwLqXIowvmzq5C40ld9UjAAI8YgJAHhBNc5AAAAAAOgAAAAAIAACAAAACYKJW4qcU9AWx3weGs04u2C8vmQP6h5vBKMVqGb8hiRyAAAAD9SHLqoDbEOmaN8u1soT3XWhwn2K4SgCWzvNL+qTss50AAAACmDO8VhLF7xWYsTswbfP22116+vJFzrrTXvB6gTvGb5sHh3dQpruQ+wWv8hu0gtrB9xRVm8UkkhzzQhkvajtR1</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -113,7 +113,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAANiMzxIfwQPoEqg8BZAJI9m0swKq7Dn4MicfQSSxBoMwAAAAAOgAAAAAIAACAAAADCiHed5g1nZ7/gzGbSLkUHrAI8rxwrdDt6z7tGfkEhVCAAAAB4xplJhkuVYHCOeXli4TE7AV6xescTzzlsi6j6OV0kI0AAAADRrr1mjB4d//gjJjheNOQoe9RScYNPx2nGR3KAmHh4nkXCwKx/SixDgWXJf4wk7JtjM/b9auMENlktWb4azS+t</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABoOqWAvN+xftQkdYQQCt5M/VclEbjf1UZqLz7+7TjNFAAAAAAOgAAAAAIAACAAAAABPV9n6xRnMqACYvJv8UcLs5ir98Q9h+clooX0ueXXoyAAAABFTevn2x8esSntdEPeWXGK52OGK/zV524lmediisy2KkAAAAC74tzE6+znKq1xw5IHP++Rpn5jbOcG6I9ZldvMDt7eNOgqSF2QGd3tOI+DUFUjHInmhERMElXr41RtszhXA7k7</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -127,7 +127,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADCMa9FkoLnVFkHJbc9gJ2DOs3jV4k/OE8GcyGglRl3fwAAAAAOgAAAAAIAACAAAABAQHcT0CVYxblFUmU5vPwEYhi7ObaT5O8E61thU5MW2yAAAACmqMFBQ6A0b5ImSxUhdqBvkwnjGVoa7/cJN+aBD46uGEAAAACdIkYR01s13Hc/c8dLA36GZsxDE99S3XUkRdfbEBS2jE90mCiBjrUegBdDFaqZ5Q/MU8ANnPhsTehK+NwF6ASW</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAARGKTyuGyTPgRxTNgtgslZ6XwOzXXYVzNs9vz9V9qmZAAAAAAOgAAAAAIAACAAAACRXL+gokYMur5j7J8CIPY27Wt11gSuTUUpoeN+THRkFiAAAAAOCM5jmB+bJnGJAREQP99rp1VhPINRusz1QfQuJ4vZ20AAAAB5NAlJpYGfbqrccYBwr4CjFairbB+G1upVlxPUmcjz6VzV6o3JdoWMlXcmz6ADGg52/vyMoFXkCwH459s2xZfl</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
   </DTS:PackageParameters>
@@ -195,7 +195,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varFullArchiveFolder">
       <DTS:VariableValue
-        DTS:DataType="8">C:\Project\LocalFolder\LendingPad_Archive\LendingPad_2020-09-21-23-40-04.zip</DTS:VariableValue>
+        DTS:DataType="8">C:\Project\LocalFolder\LendingPad_Archive\LendingPad_2020-09-21-23-41-23.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -206,7 +206,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varLastModifiedDate">
       <DTS:VariableValue
-        DTS:DataType="7">9/21/2020 11:40:05 PM</DTS:VariableValue>
+        DTS:DataType="7">9/21/2020 11:41:24 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -290,7 +290,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">9/21/2020 11:40:05 PM</DTS:VariableValue>
+        DTS:DataType="7">9/21/2020 11:41:24 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -345,6 +345,7 @@
       DTS:refId="Package\Data Flow Task"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
+      DTS:Disabled="True"
       DTS:DTSID="{30F6172F-D0C8-4FBA-B53E-C81D01F43F8E}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -12397,7 +12398,6 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:refId="Package\Execute SQL Task_RunLog"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{01CB9585-7044-4C5E-B373-09FC282E69A5}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
@@ -12510,7 +12510,6 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:refId="Package\Foreach Loop Container\Execute Process Task"
           DTS:CreationName="Microsoft.ExecuteProcess"
           DTS:Description="Execute Process Task"
-          DTS:Disabled="True"
           DTS:DTSID="{34C17F59-B7AC-4F91-A202-AE64C768136F}"
           DTS:ExecutableType="Microsoft.ExecuteProcess"
           DTS:LocaleID="-1"
@@ -12530,7 +12529,6 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:refId="Package\Foreach Loop Container\FST_Move_Rename"
           DTS:CreationName="Microsoft.FileSystemTask"
           DTS:Description="File System Task"
-          DTS:Disabled="True"
           DTS:DTSID="{7003FEA7-EAC8-4433-AC85-D9361235F10F}"
           DTS:ExecutableType="Microsoft.FileSystemTask"
           DTS:LocaleID="-1"
@@ -12572,7 +12570,6 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:refId="Package\FTP Task_LendingPad"
       DTS:CreationName="Microsoft.FtpTask"
       DTS:Description="FTP Task"
-      DTS:Disabled="True"
       DTS:DTSID="{B6717C81-A997-42A7-AC42-A2F9B642A984}"
       DTS:ExecutableType="Microsoft.FtpTask"
       DTS:LocaleID="-1"
@@ -12595,7 +12592,6 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:refId="Package\Script Task_CheckEmail"
       DTS:CreationName="Microsoft.ScriptTask"
       DTS:Description="Script Task"
-      DTS:Disabled="True"
       DTS:DTSID="{8DE5D6B3-B473-4514-B681-D997CFCFB160}"
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
@@ -13228,7 +13224,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
       DTS:refId="Package\Script Task_SendEmail"
       DTS:CreationName="Microsoft.ScriptTask"
       DTS:Description="Script Task"
-      DTS:Disabled="True"
       DTS:DTSID="{249AF100-7DF1-44A4-A370-7DDA23DAF48B}"
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
@@ -13926,7 +13921,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
       DTS:refId="Package\Sequence Container"
       DTS:CreationName="STOCK:SEQUENCE"
       DTS:Description="Sequence Container"
-      DTS:Disabled="True"
       DTS:DTSID="{1E9B5BC8-2A6B-4041-96E3-606C4B22E6FC}"
       DTS:ExecutableType="STOCK:SEQUENCE"
       DTS:LocaleID="-1"

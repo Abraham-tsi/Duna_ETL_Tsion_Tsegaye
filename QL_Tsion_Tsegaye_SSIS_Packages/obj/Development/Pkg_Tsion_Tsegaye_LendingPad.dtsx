@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_Tsion_Tsegaye_LendingPad"
   DTS:PackageType="5"
-  DTS:VersionBuild="220"
-  DTS:VersionGUID="{DAB8E641-1FDC-4178-A8BF-FFF3C72AE2A5}">
+  DTS:VersionBuild="222"
+  DTS:VersionGUID="{33A1922F-886D-44D8-98B4-499998F42C7E}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -81,7 +81,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD4qyweos3FySv5aVVE7LRFXYDshVoxgkvwyVIEjaidBwAAAAAOgAAAAAIAACAAAAAcU3e8xTz39SamzTnd+0b2e4ypO4gY6ROcQva2b0cY1iAAAACqD6rKNW4dOsbcS+NLzpPtKi0zAVUahx0+vG4GTavjhUAAAAAcAvx7WriYHEM4vBRLhJTvQ4jkbZ4f67c/iSxnXFi0pykIJiUknXjyBxt2ycJVxQpfgexglf9SKydoQsmmqWgj</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADdbWnVoHpnxrOTec/rgHHm5kHVxsMMwsdcByAIl2AkowAAAAAOgAAAAAIAACAAAAA9u/5JK7dN6fMFyyxe3oQ/CpDAHmQxB91NkbP1vKCEKiAAAABZYud52nrM8rDuat8GGM7NMulwmmoGrQggfktAnv19Y0AAAACjPDGoxMnHtIDeSrANH00R7Mnhx7zhdUr74NuVqSrBZkcffL3ia7Xgiag8pBdap43MO2t1jgYjy+dgfOrfeL8a</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -113,7 +113,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAACQTMcrpdPsycGcOEsKK8o6VAOIYUjPHX7ZTqlYRJAMQAAAAAOgAAAAAIAACAAAAAZqtgypl2QveL5pSUNr/eJoyk32MhZHhIl6Te7CiZE+SAAAACplZShGDkIkPoSxvOMBugz4BZ0PQITZDTF33aDDyWKxkAAAAChhrfGOvPvZOvUj02SguGf9CBKD4Ocs7pemrMU6xB0H0kgsn9mJ/Fv5HIEnFIqL/hfK1tyfK9xTNYVtqz1ZtJw</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAPFuTel2KjoECYy4Ojn4D0jRhMPi+y2BtzNi64Ou4D6wAAAAAOgAAAAAIAACAAAADA2sFU4dZZLf2MHl6ivQNqsG1jlvQnQZKG/ektJ4mpByAAAABlMGTICOlyfpzgTi6HXUGKvIKo3EC6fZ2TMNrn3QpL60AAAADG8dxVF4oveiusyihvwBcy7ZA36hEyyWc++l8uuNum3cUdTaYQVZIRJwEc1Gpx+b0osP0CeSu7Ks/tW1I/kdDs</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -127,7 +127,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB6lPKTWOE3+FaKcU0uR9soXBi8RmK+RnKYaLQ8nxAe+gAAAAAOgAAAAAIAACAAAABNoPtPIyPAdtJ2v3mlk2N1ZlfBebdmvlkFlURjJYqBDSAAAABDqF+q5WhMrHb7f5m0QtXZ8/ykhRLv5V8Rvg3MjSWmJUAAAAANhhHwLnEDZL5BcBNuD6Tu5OIp85axXcdP6u62chbliZNtOg5FwxTGDPg70CmpVsFs4yNCVGfhjDNp7G7vf0zU</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABhZgONBjoShad6Xv3kS1gQYSVwvG82CbAz/h80VMXsPwAAAAAOgAAAAAIAACAAAADnPNGCK84yxknOz3dWOVmF/PcKlozjgugBB8ja2ZiroSAAAAC+MbxNAmWWVppJaa/s2QKhKfNBWe2Dka17c0F0/eaxq0AAAAAvnZZUPubFtdPooxPKw2JuZydrIPMw+85gY7Ux0L2gy51sM1bzkVyVaoN/Pmt82cTzBmR7383PcJHGa81S/MID</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
   </DTS:PackageParameters>
@@ -195,7 +195,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varFullArchiveFolder">
       <DTS:VariableValue
-        DTS:DataType="8">C:\Project\LocalFolder\LendingPad_Archive\LendingPad_2020-09-21-23-22-20.zip</DTS:VariableValue>
+        DTS:DataType="8">C:\Project\LocalFolder\LendingPad_Archive\LendingPad_2020-09-22-19-40-12.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -206,7 +206,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varLastModifiedDate">
       <DTS:VariableValue
-        DTS:DataType="7">9/21/2020 11:22:20 PM</DTS:VariableValue>
+        DTS:DataType="7">9/22/2020 7:40:12 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -290,7 +290,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">9/21/2020 11:22:20 PM</DTS:VariableValue>
+        DTS:DataType="7">9/22/2020 7:40:12 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -345,6 +345,7 @@
       DTS:refId="Package\Data Flow Task"
       DTS:CreationName="Microsoft.Pipeline"
       DTS:Description="Data Flow Task"
+      DTS:Disabled="True"
       DTS:DTSID="{30F6172F-D0C8-4FBA-B53E-C81D01F43F8E}"
       DTS:ExecutableType="Microsoft.Pipeline"
       DTS:LocaleID="-1"
@@ -9064,7 +9065,7 @@
                     </externalMetadataColumn>
                     <externalMetadataColumn
                       refId="Package\Data Flow Task\JSON Source (REST API or File).Outputs[JsonSourceOutput].ExternalColumns[LeadSource]"
-                      dataType="wstr"
+                      dataType="str"
                       length="255"
                       name="LeadSource">
                       <properties>
@@ -12364,7 +12365,7 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task_Erorr_Handiling"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:EventHandlers>
         <DTS:EventHandler
@@ -12397,13 +12398,12 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:refId="Package\Execute SQL Task_RunLog"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{01CB9585-7044-4C5E-B373-09FC282E69A5}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task_RunLog"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:EventHandlers>
         <DTS:EventHandler
@@ -12481,7 +12481,6 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:refId="Package\Foreach Loop Container"
       DTS:CreationName="STOCK:FOREACHLOOP"
       DTS:Description="Foreach Loop Container"
-      DTS:Disabled="True"
       DTS:DTSID="{34C219D1-2AA6-4ED6-B282-1DC3F0BDE5DB}"
       DTS:ExecutableType="STOCK:FOREACHLOOP"
       DTS:LocaleID="-1"
@@ -12516,7 +12515,7 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute Process Task"
           DTS:TaskContact="Execute Process Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="2">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:PropertyExpression
             DTS:Name="Arguments">"x "+ @[User::varLocalFolder] + @[User::varFileName] + " -o"+   @[User::varUnZip]</DTS:PropertyExpression>
@@ -12535,7 +12534,7 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="FST_Move_Rename"
           DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="2">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <FileSystemData
@@ -12571,13 +12570,12 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:refId="Package\FTP Task_LendingPad"
       DTS:CreationName="Microsoft.FtpTask"
       DTS:Description="FTP Task"
-      DTS:Disabled="True"
       DTS:DTSID="{B6717C81-A997-42A7-AC42-A2F9B642A984}"
       DTS:ExecutableType="Microsoft.FtpTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="FTP Task_LendingPad"
       DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <FtpData
@@ -12594,12 +12592,11 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:refId="Package\Script Task_CheckEmail"
       DTS:CreationName="Microsoft.ScriptTask"
       DTS:Description="Script Task"
-      DTS:Disabled="True"
       DTS:DTSID="{8DE5D6B3-B473-4514-B681-D997CFCFB160}"
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Script Task_CheckEmail"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
@@ -13227,7 +13224,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
       DTS:refId="Package\Script Task_SendEmail"
       DTS:CreationName="Microsoft.ScriptTask"
       DTS:Description="Script Task"
-      DTS:Disabled="True"
       DTS:DTSID="{249AF100-7DF1-44A4-A370-7DDA23DAF48B}"
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
@@ -13935,7 +13931,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           DTS:refId="Package\Sequence Container\Data Flow Task_LendingPad"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Data Flow Task"
-          DTS:Disabled="True"
           DTS:DTSID="{CC320E5C-F819-46A6-83FE-6280F03B35D6}"
           DTS:ExecutableType="Microsoft.Pipeline"
           DTS:LocaleID="-1"
@@ -26881,6 +26876,31 @@ where [refTable].[MarketSourceCode] = ?</property>
                   name="ADO NET Source Output"
                   startId="Package\Sequence Container\Data Flow Task_LendingPad\ADO NET Source_LendingPad.Outputs[ADO NET Source Output]" />
                 <path
+                  refId="Package\Sequence Container\Data Flow Task_LendingPad.Paths[BorrFirstorLastNameNot_Test]"
+                  endId="Package\Sequence Container\Data Flow Task_LendingPad\Derived Column.Inputs[Derived Column Input]"
+                  name="BorrFirstorLastNameNot_Test"
+                  startId="Package\Sequence Container\Data Flow Task_LendingPad\Conditional Split.Outputs[BorrFirstorLastNameNot_Test]" />
+                <path
+                  refId="Package\Sequence Container\Data Flow Task_LendingPad.Paths[Derived Column Output]"
+                  endId="Package\Sequence Container\Data Flow Task_LendingPad\Lookup 1.Inputs[Lookup Input]"
+                  name="Derived Column Output"
+                  startId="Package\Sequence Container\Data Flow Task_LendingPad\Derived Column.Outputs[Derived Column Output]" />
+                <path
+                  refId="Package\Sequence Container\Data Flow Task_LendingPad.Paths[Derived Column Output1]"
+                  endId="Package\Sequence Container\Data Flow Task_LendingPad\Fuzzy Lookup 1.Inputs[Fuzzy Lookup Input]"
+                  name="Derived Column Output"
+                  startId="Package\Sequence Container\Data Flow Task_LendingPad\Derived Column 1.Outputs[Derived Column Output]" />
+                <path
+                  refId="Package\Sequence Container\Data Flow Task_LendingPad.Paths[Fuzzy Lookup Output]"
+                  endId="Package\Sequence Container\Data Flow Task_LendingPad\Row Count.Inputs[Row Count Input 1]"
+                  name="Fuzzy Lookup Output"
+                  startId="Package\Sequence Container\Data Flow Task_LendingPad\Fuzzy Lookup 1.Outputs[Fuzzy Lookup Output]" />
+                <path
+                  refId="Package\Sequence Container\Data Flow Task_LendingPad.Paths[Lookup Match Output]"
+                  endId="Package\Sequence Container\Data Flow Task_LendingPad\Derived Column 1.Inputs[Derived Column Input]"
+                  name="Lookup Match Output"
+                  startId="Package\Sequence Container\Data Flow Task_LendingPad\Lookup 1.Outputs[Lookup Match Output]" />
+                <path
                   refId="Package\Sequence Container\Data Flow Task_LendingPad.Paths[Row Count Output 1]"
                   endId="Package\Sequence Container\Data Flow Task_LendingPad\OLE DB Destination 1.Inputs[OLE DB Destination Input]"
                   name="Row Count Output 1"
@@ -26893,13 +26913,12 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:refId="Package\Sequence Container\Execute SQL Task_Last_ModifedDate"
           DTS:CreationName="Microsoft.ExecuteSQLTask"
           DTS:Description="Execute SQL Task"
-          DTS:Disabled="True"
           DTS:DTSID="{03284bcb-ce1f-43d8-96c7-df054c973153}"
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task_Last_ModifedDate"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -26918,13 +26937,12 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:refId="Package\Sequence Container\Execute SQL_Task_Delete"
           DTS:CreationName="Microsoft.ExecuteSQLTask"
           DTS:Description="Execute SQL Task"
-          DTS:Disabled="True"
           DTS:DTSID="{154BAC48-2379-4E7D-8A2A-653BAC841BF1}"
           DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL_Task_Delete"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -26936,13 +26954,12 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:refId="Package\Sequence Container\File System Task"
           DTS:CreationName="Microsoft.FileSystemTask"
           DTS:Description="File System Task"
-          DTS:Disabled="True"
           DTS:DTSID="{F875A623-73DA-4688-90DC-E8B3D69C0335}"
           DTS:ExecutableType="Microsoft.FileSystemTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="File System Task"
           DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="2">
           <DTS:Variables />
           <DTS:ObjectData>
             <FileSystemData
@@ -28479,9 +28496,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="-55.0071451835483,-22,16,16"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -28510,6 +28525,174 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
                     Point3="-112.850001383679,25.2073536986089" />
                   <mssgle:LineSegment
                     End="-112.850001383679,34.9147073972179" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container\Data Flow Task_LendingPad.Paths[BorrFirstorLastNameNot_Test]"
+          TopLeft="611.128580521321,150.570589763565">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="263.307147354861,23.170588851965"
+              Start="0,0"
+              End="263.307147354861,15.670588851965">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,7.5852944259825" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,7.5852944259825"
+                    Point2="0,11.5852944259825"
+                    Point3="4,11.5852944259825" />
+                  <mssgle:LineSegment
+                    End="259.307147354861,11.5852944259825" />
+                  <mssgle:CubicBezierSegment
+                    Point1="259.307147354861,11.5852944259825"
+                    Point2="263.307147354861,11.5852944259825"
+                    Point3="263.307147354861,15.5852944259825" />
+                  <mssgle:LineSegment
+                    End="263.307147354861,15.670588851965" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="66.0971869586805,16.5852944259825,131.1127734375,10.7841796875"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container\Data Flow Task_LendingPad.Paths[Derived Column Output]"
+          TopLeft="950.835727876182,194.54117861553">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="80.5000029376579,35.914706941419"
+              Start="0,0"
+              End="80.5000029376579,28.414706941419">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="76.5000029376579,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="76.5000029376579,0"
+                    Point2="80.5000029376579,0"
+                    Point3="80.5000029376579,4" />
+                  <mssgle:LineSegment
+                    End="80.5000029376579,28.414706941419" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container\Data Flow Task_LendingPad.Paths[Lookup Match Output]"
+          TopLeft="1031.33573081384,272.055885556949">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-183.17143203823,57.723530832789"
+              Start="0,0"
+              End="-183.17143203823,50.223530832789">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,24.8617654163945" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,24.8617654163945"
+                    Point2="0,28.8617654163945"
+                    Point3="-4,28.8617654163945" />
+                  <mssgle:LineSegment
+                    End="-179.17143203823,28.8617654163945" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-179.17143203823,28.8617654163945"
+                    Point2="-183.17143203823,28.8617654163945"
+                    Point3="-183.17143203823,32.8617654163945" />
+                  <mssgle:LineSegment
+                    End="-183.17143203823,50.223530832789" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="-139.777102737865,33.8617654163945,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container\Data Flow Task_LendingPad.Paths[Derived Column Output1]"
+          TopLeft="848.16429877561,371.379416389738">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="129.221430867424,62.59117793183"
+              Start="0,0"
+              End="129.221430867424,55.09117793183">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,27.295588965915" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,27.295588965915"
+                    Point2="0,31.295588965915"
+                    Point3="4,31.295588965915" />
+                  <mssgle:LineSegment
+                    End="125.221430867424,31.295588965915" />
+                  <mssgle:CubicBezierSegment
+                    Point1="125.221430867424,31.295588965915"
+                    Point2="129.221430867424,31.295588965915"
+                    Point3="129.221430867424,35.295588965915" />
+                  <mssgle:LineSegment
+                    End="129.221430867424,55.09117793183" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container\Data Flow Task_LendingPad.Paths[Fuzzy Lookup Output]"
+          TopLeft="977.385729643034,475.570594321568">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-102.764287280429,37.738236406806"
+              Start="0,0"
+              End="-102.764287280429,30.238236406806">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,14.869118203403" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,14.869118203403"
+                    Point2="0,18.869118203403"
+                    Point3="-4,18.869118203403" />
+                  <mssgle:LineSegment
+                    End="-98.764287280429,18.869118203403" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-98.764287280429,18.869118203403"
+                    Point2="-102.764287280429,18.869118203403"
+                    Point3="-102.764287280429,22.869118203403" />
+                  <mssgle:LineSegment
+                    End="-102.764287280429,30.238236406806" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>

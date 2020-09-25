@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:refId="Package"
   DTS:CreationDate="8/10/2020 7:43:44 PM"
@@ -91,7 +91,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADfQiYpfepwv8jSxoqz8Oi33iRNGJgdfr9L4vCJFbKYGwAAAAAOgAAAAAIAACAAAADyCxR0x+tXmZ5AXEl02j14KtullL5pyBhns/15wbXpqyAAAAD1u8T42Jq4v1G2KYfKGWffSyHJ19mLan2S2PThAQaaYkAAAAAT1kexYoAKc73m7uc4nUnNd5Xp21Wzd63FWEXGnwgY433Kg/Byf1La8UKR7MfGCDQV4QbheSB7kHxXUKYYPUIF</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABmqWiiSuZEZ5xXqblTctQnoT1GKemACKFTC2GaCKdofAAAAAAOgAAAAAIAACAAAAAkqQomW0zodhkX/j5UUrSCtWnxoupsn7Rfu4cfw7bW7iAAAAA970O3Iat+F9GR/7o2BdiuN7CZNoM7+ri4sd/bNYxdikAAAABsohUNexHiCZICgIJ3CpWUkZ5+wmaWX8OhhR2nFGPUx18Da1fWmuYWnJ94c2DTYWsqt8xI4va5MrxSq8yC35v2</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -114,7 +114,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABhtWu1eG9ok63SXoNJPEluhvEjXbd/jIJwFLktjOTpzgAAAAAOgAAAAAIAACAAAACxU+srStuXlKYR2gCxC7+5+9Mtpesa/VddE6AbmJm2hyAAAADD/kRBZlEOihF9vSJHffqsLMdvS8rUI386Afr7vcpmL0AAAADKHJHARy/P2w3/sCAm8uQPEPfEX7MO75EExMyef6K6qs4gRO9HggZV+7QxctXda2JKws9tBwaEmw14IZIt/RrB</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABXVqMUgKQpTOJ3DMHSfE3Nk0QN5EmlVQTtD2m7cPSOAQAAAAAOgAAAAAIAACAAAAA2Ieszr3THw0xBsg5PNppvf4Y7+Xq0F9FPjw0OQQQVdSAAAAB1KCJgn9kH5WVEytPPnxZxlxsjfjyNASpXNafggV2CZEAAAADL62RndTO2QJe91MWrlJpvm6/6LZXlvG5vVeuR/lV2epkZQzRNqu9Yfpy8zNU234o9BFOT5FofDgI+vnD8VfZI</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -146,7 +146,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABXawvdNluKqY9Yeg4IOTud6ZeqS/ICOoCc5RJGdACqXAAAAAAOgAAAAAIAACAAAABpDVIqMYBWXBSvaRRapS5FtNE+BIVgyeFAfeQfsa6mLCAAAABXPSWjjBgFE7TF3Fa6tEPGb1DEer4lP/5yI7T3ZziTp0AAAACZvecO/njbqm7LrNHv+7+RWqGZ9yYQ6AJrHmyBLm23cn7EX0to6JPsca63y1jxJIUjPVR2ZWbitFqlSGllTbgP</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABOL7I0wwRAk/jVw00L9ec32fC5PCVY4Q8ltTiWIYh2+AAAAAAOgAAAAAIAACAAAAAM9qk+VIchYojVJVqVjEq2A4wofKPrgt9C5U8t25Z+WCAAAADo3wpqsk5bJ8TkElW0tgBmKNezoX5a6pwbMLY9dFN6kUAAAAABqFuzGsW3bv5B3XI1xfdP4Mt07J+qx73t4Vfqm204u3DU9OrrY3HDtr7Z92M52eEotCAohud6Gto/sYU71XxS</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -160,7 +160,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADKVCaJ4kRitSu3X9Z2txcQ3iMNqTYjMgWRO9J98JUHAwAAAAAOgAAAAAIAACAAAACxv5o2AcPriYMQDporatLOmZFeM+BoXoiXhIX8TpPoNyAAAACp784wmD8sG7RjLEuCMFKPnCUyucbYisLv1Rwad0nlWkAAAAD+vQPGFiUBY2uINXEvEcb2jU/KycLCd5kHGEam1GwbWUJ+nZdDivFxkh9ZKn8IsU+yGNYvgVI+/mMfz46tar/6</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABHctFYolXzanQCCv+FiahxkBJI+ctqPnXKGpZj9uqBZgAAAAAOgAAAAAIAACAAAADC/SsZDmnNX0Udpb/EBC5n5dOngotTMuC7ICjwAjntOyAAAACYIigAN+VM5W1ooAYiq0ptOjB4mcP5PbHp9W1UNL83tEAAAAAN4ZchHblWAXMwKVSA2zkYaFpXLSoHB3i+YBzxXrckhFSSq0JI104W3Ryf8dDy8ZBba3b8QR8uZfQ0SwBT0Kd2</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
   </DTS:PackageParameters>
@@ -228,7 +228,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varFullArchiveFolder">
       <DTS:VariableValue
-        DTS:DataType="8">C:\Project\LocalFolder\LendingPad_Archive\SimpleNexus_2020-09-24-21-45-11.zip</DTS:VariableValue>
+        DTS:DataType="8">C:\Project\LocalFolder\LendingPad_Archive\SimpleNexus_2020-09-24-21-45-07.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -239,7 +239,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varLastModifiedDate">
       <DTS:VariableValue
-        DTS:DataType="7">9/24/2020 9:45:11 PM</DTS:VariableValue>
+        DTS:DataType="7">9/24/2020 9:45:08 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -323,7 +323,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">9/24/2020 9:45:11 PM</DTS:VariableValue>
+        DTS:DataType="7">9/24/2020 9:45:08 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -11286,7 +11286,7 @@ where [refTable].[MarketSourceCode] = ?</property>
         <DTS:Executable
           DTS:refId="Package\Foreach Loop Container\FST_Move_Rename"
           DTS:CreationName="Microsoft.FileSystemTask"
-          DTS:Description="C:\Project\LocalFolder\LendingPad_Archive\SimpleNexus_2020-09-24-21-45-11.zip"
+          DTS:Description="C:\Project\LocalFolder\LendingPad_Archive\SimpleNexus_2020-09-24-21-45-07.zip"
           DTS:DTSID="{342DF033-9BDA-4A23-B53F-C5B5A168B390}"
           DTS:ExecutableType="Microsoft.FileSystemTask"
           DTS:LocaleID="-1"
@@ -11369,35 +11369,14 @@ where [refTable].[MarketSourceCode] = ?</property>
           ReadOnlyVariables="User::varFileName,User::varLocalFolder"
           ReadWriteVariables="User::varFileExistsFlag">
           <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_5114b196a10c47cbbd0dda59f1c7985b")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_5114b196a10c47cbbd0dda59f1c7985b")]
-[assembly: AssemblyCopyright("Copyright @  2020")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -11785,14 +11764,35 @@ namespace ST_5114b196a10c47cbbd0dda59f1c7985b.Properties {
     }
 }]]></ProjectItem>
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_5114b196a10c47cbbd0dda59f1c7985b")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_5114b196a10c47cbbd0dda59f1c7985b")]
+[assembly: AssemblyCopyright("Copyright @  2020")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -12024,35 +12024,14 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
           Language="CSharp"
           ReadOnlyVariables="System::PackageName,System::StartTime,User::varFileName,User::varFromEmail,User::varLocalFolder,User::varPassword,User::varSmtpClient,User::varSmtpServerPort,User::varSubject,User::varToEmail">
           <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_e404f15a76034b8097690e6c08611c76")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_e404f15a76034b8097690e6c08611c76")]
-[assembly: AssemblyCopyright("Copyright @  2020")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -12465,14 +12444,35 @@ namespace ST_e404f15a76034b8097690e6c08611c76.Properties {
   </ProjectExtensions>
 </Project>]]></ProjectItem>
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_e404f15a76034b8097690e6c08611c76")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_e404f15a76034b8097690e6c08611c76")]
+[assembly: AssemblyCopyright("Copyright @  2020")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -25932,35 +25932,14 @@ where [refTable].[MarketSourceCode] = ?</property>
               ReadOnlyVariables="System::PackageName,User::varFromEmail,User::varPassword,User::varSmtpClient,User::varSmtpServerPort,User::varSubject,User::varToEmail"
               ReadWriteVariables="System::ErrorCode,System::ErrorDescription,User::varTimeStamp">
               <ProjectItem
-                Name="Properties\AssemblyInfo.cs"
-                Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_588871abe0fa4e6090626c1dc1281c86")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_588871abe0fa4e6090626c1dc1281c86")]
-[assembly: AssemblyCopyright("Copyright @  2020")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+                Name="Properties\Settings.settings"
+                Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
               <ProjectItem
                 Name="Properties\Resources.resx"
                 Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -26080,6 +26059,35 @@ using System.Runtime.CompilerServices;
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
 </root>]]></ProjectItem>
+              <ProjectItem
+                Name="Properties\Settings.Designer.cs"
+                Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_588871abe0fa4e6090626c1dc1281c86.Properties.Settings.get_Default():ST_588871abe0fa4e6090626c1dc1281c86.Properties.Sett" +
+    "ings")]
+
+namespace ST_588871abe0fa4e6090626c1dc1281c86.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
               <ProjectItem
                 Name="ScriptMain.cs"
                 Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -26248,34 +26256,35 @@ namespace ST_588871abe0fa4e6090626c1dc1281c86
   </msb:ItemGroup>
 </c:Project>]]></ProjectItem>
               <ProjectItem
-                Name="Properties\Settings.Designer.cs"
-                Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
+                Name="Properties\AssemblyInfo.cs"
+                Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
 //
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_588871abe0fa4e6090626c1dc1281c86")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_588871abe0fa4e6090626c1dc1281c86")]
+[assembly: AssemblyCopyright("Copyright @  2020")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
 
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_588871abe0fa4e6090626c1dc1281c86.Properties.Settings.get_Default():ST_588871abe0fa4e6090626c1dc1281c86.Properties.Sett" +
-    "ings")]
-
-namespace ST_588871abe0fa4e6090626c1dc1281c86.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
               <ProjectItem
                 Name="ST_588871abe0fa4e6090626c1dc1281c86.csproj"
                 Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -26362,15 +26371,6 @@ namespace ST_588871abe0fa4e6090626c1dc1281c86.Properties {
     </VisualStudio>
   </ProjectExtensions>
 </Project>]]></ProjectItem>
-              <ProjectItem
-                Name="Properties\Settings.settings"
-                Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
               <ProjectItem
                 Name="Properties\Resources.Designer.cs"
                 Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------

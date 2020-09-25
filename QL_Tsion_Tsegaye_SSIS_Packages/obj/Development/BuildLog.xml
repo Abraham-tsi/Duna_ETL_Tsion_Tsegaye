@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Tsion_Tsegaye_SSIS_Packages</Name>
-    <LastWriteTime>2020-09-21T02:17:03.3130176Z</LastWriteTime>
+    <LastWriteTime>2020-09-24T23:42:51.3058133Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -38,7 +38,12 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Tsion_Tsegaye_LendingPad.dtsx</Name>
-      <LastWriteTime>2020-09-22T05:22:16.9494116Z</LastWriteTime>
+      <LastWriteTime>2020-09-22T05:43:39.2918171Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Pkg_Tsion_Tsegaye_SimpleNexus.dtsx</Name>
+      <LastWriteTime>2020-09-25T03:45:07.9548192Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
