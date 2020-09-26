@@ -91,7 +91,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADfQiYpfepwv8jSxoqz8Oi33iRNGJgdfr9L4vCJFbKYGwAAAAAOgAAAAAIAACAAAADyCxR0x+tXmZ5AXEl02j14KtullL5pyBhns/15wbXpqyAAAAD1u8T42Jq4v1G2KYfKGWffSyHJ19mLan2S2PThAQaaYkAAAAAT1kexYoAKc73m7uc4nUnNd5Xp21Wzd63FWEXGnwgY433Kg/Byf1La8UKR7MfGCDQV4QbheSB7kHxXUKYYPUIF</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAB0i1yB8CN9Ga8G4hkUtX8W9Pt5aqJ0Ii/UZQmA3nrkigAAAAAOgAAAAAIAACAAAADGHUQHf+aC6Gx+bG9urnJC/qVpM1UuQ2dVq1UDujCHzSAAAABP45iB97KZ77hJkfjk7rEBu3PQHEzA8Jp6Pyjg+UWTcUAAAAANBPTjU23SQ6Z7BihUKxHksyoU9HVYMPf4pYEiDxkQT4FmAHa7iyeDJAFg8PKRc/w0Z7MIsbytPeHOSPAUCXGl</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -114,7 +114,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABhtWu1eG9ok63SXoNJPEluhvEjXbd/jIJwFLktjOTpzgAAAAAOgAAAAAIAACAAAACxU+srStuXlKYR2gCxC7+5+9Mtpesa/VddE6AbmJm2hyAAAADD/kRBZlEOihF9vSJHffqsLMdvS8rUI386Afr7vcpmL0AAAADKHJHARy/P2w3/sCAm8uQPEPfEX7MO75EExMyef6K6qs4gRO9HggZV+7QxctXda2JKws9tBwaEmw14IZIt/RrB</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACEf6oRn6JTyRVxjhuzOyuEZOpg1uUNtSUnHR8T3IoCrQAAAAAOgAAAAAIAACAAAABZtiLtH2+Xu1XALarJ2qruhl/RvDMscQXfQq38gWLEriAAAABXk7FkIemFKyZF92obADLE4KGmL1jPjmXBK6RaRMWQY0AAAACuCkvsb1Sl/8wIl93iJLHrU7WK/7b6d/CoOwGIeVMM6fP8VMQswi6/7CDHEvXrqWqHSrBDn9qVFj8+gHS6U4Ak</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -146,7 +146,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABXawvdNluKqY9Yeg4IOTud6ZeqS/ICOoCc5RJGdACqXAAAAAAOgAAAAAIAACAAAABpDVIqMYBWXBSvaRRapS5FtNE+BIVgyeFAfeQfsa6mLCAAAABXPSWjjBgFE7TF3Fa6tEPGb1DEer4lP/5yI7T3ZziTp0AAAACZvecO/njbqm7LrNHv+7+RWqGZ9yYQ6AJrHmyBLm23cn7EX0to6JPsca63y1jxJIUjPVR2ZWbitFqlSGllTbgP</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADK+brGXG2aielcyiZjimXlrc5hhZ7RG/nG1wwdwiR5HAAAAAAOgAAAAAIAACAAAABOOG4VEIgxKnwhoXp1pBDFseaHzxLqme8oWSXlvbQMgiAAAAARIsa4eFVINIxhXrVHM8mocyuU8LAOQbLRjwOfZ2aiWkAAAACyO7BYHIUuXsTtBCAasZx/e1Ak6wsH/NvcWVgqs8Fm6S4YVV7+1Y4pdWtlgLbS4GvlTpp4eW/bK9xFmUGJhwSO</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -160,7 +160,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADKVCaJ4kRitSu3X9Z2txcQ3iMNqTYjMgWRO9J98JUHAwAAAAAOgAAAAAIAACAAAACxv5o2AcPriYMQDporatLOmZFeM+BoXoiXhIX8TpPoNyAAAACp784wmD8sG7RjLEuCMFKPnCUyucbYisLv1Rwad0nlWkAAAAD+vQPGFiUBY2uINXEvEcb2jU/KycLCd5kHGEam1GwbWUJ+nZdDivFxkh9ZKn8IsU+yGNYvgVI+/mMfz46tar/6</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAp3GnkmzVpkWgsu1mIBQragAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABYHtMVOT8m4vbGym6gwo8teLXJeaOTSrVzeLaobvSzJQAAAAAOgAAAAAIAACAAAAD0Aulod+DGifzGLLy58/OTvJ8vbta+1p1t6KoJoL5wrCAAAADEAHg/uz/oapuD7TUowbZVKZ8Lj5nKdr750NGci61yakAAAABBPoOFaKxS7YRxinasBVBdETtK3DEdGEmCTex6vI6klgCA741U4lrkX6Ch1yHtWWrUY+0Dk9EyiuiILkjMrtje</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
   </DTS:PackageParameters>
@@ -228,7 +228,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varFullArchiveFolder">
       <DTS:VariableValue
-        DTS:DataType="8">C:\Project\LocalFolder\LendingPad_Archive\SimpleNexus_2020-09-24-21-45-11.zip</DTS:VariableValue>
+        DTS:DataType="8">C:\Project\LocalFolder\LendingPad_Archive\SimpleNexus_2020-09-25-20-07-23.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -239,7 +239,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varLastModifiedDate">
       <DTS:VariableValue
-        DTS:DataType="7">9/24/2020 9:45:11 PM</DTS:VariableValue>
+        DTS:DataType="7">9/25/2020 8:07:23 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -323,7 +323,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="varTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">9/24/2020 9:45:11 PM</DTS:VariableValue>
+        DTS:DataType="7">9/25/2020 8:07:23 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -11121,7 +11121,7 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task_Erorr_Handiling"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="0">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:EventHandlers>
         <DTS:EventHandler
@@ -11160,7 +11160,7 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task_RunLog"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:EventHandlers>
         <DTS:EventHandler
@@ -11273,7 +11273,7 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute Process Task"
           DTS:TaskContact="Execute Process Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:PropertyExpression
             DTS:Name="Arguments">"x "+ @[User::varLocalFolder] + @[User::varFileName] + " -o"+ @[User::varUnZipFile]</DTS:PropertyExpression>
@@ -11286,13 +11286,13 @@ where [refTable].[MarketSourceCode] = ?</property>
         <DTS:Executable
           DTS:refId="Package\Foreach Loop Container\FST_Move_Rename"
           DTS:CreationName="Microsoft.FileSystemTask"
-          DTS:Description="C:\Project\LocalFolder\LendingPad_Archive\SimpleNexus_2020-09-24-21-45-11.zip"
+          DTS:Description="C:\Project\LocalFolder\LendingPad_Archive\SimpleNexus_2020-09-25-20-07-23.zip"
           DTS:DTSID="{342DF033-9BDA-4A23-B53F-C5B5A168B390}"
           DTS:ExecutableType="Microsoft.FileSystemTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="FST_Move_Rename"
           DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:PropertyExpression
             DTS:Name="Description">@[User::varArchive] +"\\"+REPLACE(@[User::varFileName] ,".zip","_")+REPLACE(SUBSTRING(REPLACE((DT_WSTR,50)GETDATE()," ","-"),1,19),":","-")+".zip"</DTS:PropertyExpression>
@@ -11336,7 +11336,7 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:LocaleID="-1"
       DTS:ObjectName="FTP Task_SimpleNexus"
       DTS:TaskContact="FTP Task; Microsoft Corporation; SQL Server 2019; (c) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <FtpData
@@ -11358,7 +11358,7 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Script Task_CheckFile"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="0">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
@@ -25682,7 +25682,7 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -25699,7 +25699,7 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task_Last_ModifedDate"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -25723,7 +25723,7 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL_Task_Delete"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -25740,7 +25740,7 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="File System Task"
           DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
             <FileSystemData

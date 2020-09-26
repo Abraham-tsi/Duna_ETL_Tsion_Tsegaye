@@ -2,33 +2,13 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Tsion_Tsegaye_SSIS_Packages</Name>
-    <LastWriteTime>2020-09-24T23:42:51.3058133Z</LastWriteTime>
+    <LastWriteTime>2020-09-26T02:12:48.897077Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Pkg_Tsion_Tsegaye_LendingQB.dtsx</Name>
-      <LastWriteTime>2020-09-14T22:11:04.8275491Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
-      <Name>Pkg_Tsion_Tsegaye_LendingLoan.dtsx</Name>
-      <LastWriteTime>2020-08-28T05:04:42.6164394Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
-      <Name>Tsion.dtsx</Name>
-      <LastWriteTime>2020-09-15T02:52:03.3667178Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
-      <Name>Package1.dtsx</Name>
-      <LastWriteTime>2020-09-15T02:40:22.3490861Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-    <ProjectBuildItemInfo>
-      <Name>Package2.dtsx</Name>
-      <LastWriteTime>2020-09-16T00:51:27.7739459Z</LastWriteTime>
+      <LastWriteTime>2020-09-26T05:24:45.6266012Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
@@ -38,12 +18,22 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Tsion_Tsegaye_LendingPad.dtsx</Name>
-      <LastWriteTime>2020-09-22T05:43:39.2918171Z</LastWriteTime>
+      <LastWriteTime>2020-09-26T01:41:41.8363516Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Tsion_Tsegaye_SimpleNexus.dtsx</Name>
-      <LastWriteTime>2020-09-25T03:45:07.9548192Z</LastWriteTime>
+      <LastWriteTime>2020-09-25T18:59:20.9543305Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Pkg_Tsion_Tsegaye_QuickenLoan_Master.dtsx</Name>
+      <LastWriteTime>2020-09-26T01:08:17.1318559Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Pkg_Tsion_Tsegaye_QuickenLoan 1.dtsx</Name>
+      <LastWriteTime>2020-09-26T06:04:40.2080022Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
